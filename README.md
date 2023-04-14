@@ -1,1 +1,14 @@
-# initiatieven
+# Initiateven
+Hieronder een opzet voor het onderling bijhouden en registreren van (data)initiatieven tussen de huizen. Deze pagina is opgesteld in de Markdown taal, zie hier voor toeliching daarvan. 
+
+https://www.markdownguide.org/basic-syntax 
+
+## Onderwerpen en Technieken
+Hieronder twee lijstjes van onderwerpen en technieken, dit om de invulling van deze velden een beetje standaard te houden. Voel je vrij om aan te vullen.
+
+
+#
+
+Korte beschrijving | Onderwerp | Huis | Technieken | Uitgebreide beschrijving | Periode
+---|---|---|---|---|---
+test|test|test|test|test|dsa
