@@ -14,6 +14,7 @@ FDP | Implementatie van Fair Data points
 FHIR API | fde
 
 Techniek | Beschrijving
+---|---
 SQL Server | Gebruik van MS SQL server
 Azure | Gebruik van MS Azure cloud
 Firely Server | Gebruik van de Firely Sever als FHIR API, Firely Server slaat FHIR resources op in zijn eigen database.
