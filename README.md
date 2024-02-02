@@ -11,7 +11,9 @@ Onderwerp | Beschrijving
 VIPP5 | Gesubidieert project tbv implementatie van de BGZ
 FAIR | FAIR data principes, Findable, Accessible, Interoperable, Reusable
 FDP | Implementatie van Fair Data points
-FHIR API | fde
+FHIR API | Ontsluiting van FHIR resources doormiddel van de gestandaardiseerde FHIR API
+Health-RI | Het Health-RI initiatief voor het opzetten van een nationale research infrastructuur
+CumuluZ | De initiatief om klinische levensloop informatie centraal beschikbaar te maken
 
 Techniek | Beschrijving
 ---|---
@@ -26,3 +28,4 @@ Korte beschrijving | Onderwerp | Huis | Technieken | Uitgebreide beschrijving | 
 ---|---|---|---|---|---
 FDP inrichten | FDP | LUMC, EMC, UMCU | FAIR | Bij het LUMC is de biosemantics group al langer bezig met het ontwikkelen van FAIR data points. Met behulp van SURF subisidie wordt er nu gekeken naar een manier om deze FPD's makkeijk uit te rollen. En daarnaast op zo een manier in gebruik te nemen dat dit voor ontwikkelaars van modellen relatief makkelijk is. 
 Firely Facade inrichten | FHIR API | UMCU, LUMC | Firely Facade | Inrichten van Firely Facade om de API direct tegen het dataplatform aan te laten praten. | 2023
+Plugin | Initiatief van IKNL en DHD om data delen en gefedereerde analyse mogelijk te maken.
