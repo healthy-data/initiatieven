@@ -21,6 +21,7 @@ SQL Server | Gebruik van MS SQL server
 Azure | Gebruik van MS Azure cloud
 Firely Server | Gebruik van de Firely Sever als FHIR API, Firely Server slaat FHIR resources op in zijn eigen database.
 Firely Facade | Gebruik van de Firely Facade als FHIR API, de Facade leest data uit een andere brondatabase zoals het Dataplatform.
+Vantage6 | Een technische oplossing die het gefedereerde datauitwisseling en analyse mogelijk maakt
 
 # Lijst van initiatieven
 
@@ -28,4 +29,4 @@ Korte beschrijving | Onderwerp | Huis | Technieken | Uitgebreide beschrijving | 
 ---|---|---|---|---|---
 FDP inrichten | FDP | LUMC, EMC, UMCU | FAIR | Bij het LUMC is de biosemantics group al langer bezig met het ontwikkelen van FAIR data points. Met behulp van SURF subisidie wordt er nu gekeken naar een manier om deze FPD's makkeijk uit te rollen. En daarnaast op zo een manier in gebruik te nemen dat dit voor ontwikkelaars van modellen relatief makkelijk is. 
 Firely Facade inrichten | FHIR API | UMCU, LUMC | Firely Facade | Inrichten van Firely Facade om de API direct tegen het dataplatform aan te laten praten. | 2023
-Plugin | Initiatief van IKNL en DHD om data delen en gefedereerde analyse mogelijk te maken.
+Plugin | Health-RI | Radboud, LUMC | Vantage6 |   Initiatief van IKNL en DHD om data delen en gefedereerde analyse mogelijk te maken. | 2024
